@@ -19,9 +19,9 @@ console.log(sentence);
 let fruit = "bana'na";
 console.log(fruit);
 console.log(fruit.length);
-let dow = "moo\rnoo";
-let cow = "moo\tnoo";
-let wow = "moo\nnoo";
+let dow = "moo\rnoo"; //carriage return
+let cow = "moo\tnoo"; //tab space 
+let wow = "moo\nnoo"; //new line
 console.log(dow);
 console.log(cow);
 console.log(wow);
